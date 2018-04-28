@@ -6,6 +6,8 @@ Basically, this is just a SPA that fetches music data like albums, tracklists, n
 Used:
 - React
 - ReactDOM
+- React-Router
+- React-router-dom
 - Redux
 - axios
 - Redux logger middleware

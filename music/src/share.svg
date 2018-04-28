@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="50" viewBox="0 0 111 50">
+    <g fill="none" fill-rule="evenodd" opacity=".3">
+        <path stroke="#000" d="M.5.5h110v49H.5z" opacity=".2"/>
+        <text fill="#000" font-family="Montserrat-Medium, Montserrat" font-size="14" font-weight="400">
+            <tspan x="46" y="30">Share</tspan>
+        </text>
+        <path fill="#000" fill-rule="nonzero" d="M32.62 20.91V19L38 23.946l-5.402 4.967v-1.987s-2.683-.49-5.44 1.092A9.862 9.862 0 0 0 24 30.9s.204-3.086 2.135-5.897c2.414-3.515 6.486-4.092 6.486-4.092z"/>
+    </g>
+</svg>
